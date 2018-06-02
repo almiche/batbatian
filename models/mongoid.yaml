@@ -1,0 +1,4 @@
+production: 
+  clients: 
+    default: 
+      uri: "mongodb://almiche:almiche@ds121960.mlab.com:21960/batbatian"         

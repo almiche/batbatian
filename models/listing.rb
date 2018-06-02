@@ -1,4 +1,6 @@
 require 'pry'
+require 'json/ext'
+
 class Listing
 
     def initialize(args)
@@ -27,4 +29,15 @@ class Listing
     attr_accessor :link
     attr_accessor :images
     attr_accessor :details
+
+    def as_json(options={})
+        {
+          title: @title,
+          addres: @address,
+          price: @price,
+          link: @price,
+          images: @images
+        }
+      end    
+
 end

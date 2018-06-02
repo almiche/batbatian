@@ -4,6 +4,8 @@ require_relative './models/listing'
 require 'nokogiri'
 require 'open-uri'
 require 'pry'
+require 'oj'
+require 'json/ext'
 
 def scrape_his_page()
     listings = Array.new()
@@ -24,13 +26,16 @@ def scrape_his_page()
 end
 
 def scraper_remax()
+    puts("IN")
     listings = Array.new()
     page = Nokogiri::HTML(open("https://www.remax-quebec.com/en/courtiers-immobiliers/raffy.chatmajian/index.rmx"))   
     page.css('.property-entry').each do |listing| 
+        puts("NEW LISTING")
         image = listing.css('img').attr('src').to_str
         title = listing.css('.property-type').text
         address = /(<h2>)(.|\r|\t|\n)*(<\/h2>)/.match(listing.css('h2').to_s).to_s.strip
         link = "https://www.remax-quebec.com/#{listing.css('a').attr('href')}"
+        puts "#{link}"
         price = listing.css('div.property-price').text
         args = {
             :image => image,
@@ -45,16 +50,18 @@ def scraper_remax()
 end
 
 def scrape_details(listings)
+    puts("IN LIKE FLYNN")
+    json = Array.new
     listings.each do |listing|
         page = Nokogiri::HTML(open(listing.link))
         details = page.css('.col-xlg-9.col-md-8')
         images = Array.new()
-        page.css('.slideshow a').each do |image|
+        page.css('.Gallery__Thumbnail').each do |image|
+            puts "#{image}"
             images.push(image.attr('href'))
         end
         listing.add_images(images)
         listing.add_details(details)
     end
+    return listings
 end
-
-scraper_remax
