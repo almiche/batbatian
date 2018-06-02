@@ -2,9 +2,7 @@ require_relative 'scraper'
 require 'faraday'
 require 'liquid'
 require 'json'
-require 'pry'
 require 'sinatra'
-require 'pry'
 require_relative '/Users/michel/workspace/batbatian/models/schemas.rb'
 
 class MyApp < Sinatra::Application 
@@ -14,7 +12,6 @@ class MyApp < Sinatra::Application
     def initialize(app=nil)
         super()
         @app = app
-        @listings = scraper_remax
     end
 
     get '/' do

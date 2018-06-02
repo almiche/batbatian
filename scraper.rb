@@ -3,7 +3,6 @@ require 'faraday'
 require_relative './models/listing'
 require 'nokogiri'
 require 'open-uri'
-require 'pry'
 require 'oj'
 require 'json/ext'
 
