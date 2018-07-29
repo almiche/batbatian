@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Articles &#8211; Pierre Batbatian</title>
-	<atom:link href="https://batbatian.com/category/articles/feed/" rel="self" type="application/rss+xml" />
+<base href="http://localhost:9292/" />	<atom:link href="https://batbatian.com/category/articles/feed/" rel="self" type="application/rss+xml" />
 	<link>https://batbatian.com</link>
 	<description>Montreal Real Estate</description>
 	<lastBuildDate>Sat, 08 Jul 2017 01:04:45 +0000</lastBuildDate>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.4.5</generator>
 	<item>
 		<title>Fully Responsive</title>
-		<link>https://batbatian.com/fully-responsive/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/fully-responsive/</link>
 		<comments>https://batbatian.com/fully-responsive/#respond</comments>
 		<pubDate>Tue, 06 Mar 2012 00:19:54 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -39,7 +39,7 @@
 		</item>
 		<item>
 		<title>Translation Ready</title>
-		<link>https://batbatian.com/translation-ready/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/translation-ready/</link>
 		<comments>https://batbatian.com/translation-ready/#respond</comments>
 		<pubDate>Thu, 29 Dec 2011 00:49:04 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -59,7 +59,7 @@
 		</item>
 		<item>
 		<title>Clean Semantic Code</title>
-		<link>https://batbatian.com/clean-semantic-code/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/clean-semantic-code/</link>
 		<comments>https://batbatian.com/clean-semantic-code/#respond</comments>
 		<pubDate>Thu, 15 Dec 2011 21:42:53 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -78,7 +78,7 @@
 		</item>
 		<item>
 		<title>Child Theme Creator</title>
-		<link>https://batbatian.com/child-theme-creator/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/child-theme-creator/</link>
 		<comments>https://batbatian.com/child-theme-creator/#respond</comments>
 		<pubDate>Wed, 14 Dec 2011 23:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -100,7 +100,7 @@
 		</item>
 		<item>
 		<title>Full Video Support</title>
-		<link>https://batbatian.com/full-video-support/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/full-video-support/</link>
 		<comments>https://batbatian.com/full-video-support/#respond</comments>
 		<pubDate>Wed, 14 Dec 2011 21:52:22 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -119,7 +119,7 @@
 		</item>
 		<item>
 		<title>The Kitchen Sink</title>
-		<link>https://batbatian.com/the-kitchen-sink/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/the-kitchen-sink/</link>
 		<comments>https://batbatian.com/the-kitchen-sink/#respond</comments>
 		<pubDate>Wed, 14 Dec 2011 21:34:00 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -198,7 +198,7 @@ include(TEMPLATEPATH . '/includes/custom-stylesheet.php');
 		</item>
 		<item>
 		<title>SEO Optimized</title>
-		<link>https://batbatian.com/post-without-an-image/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/post-without-an-image/</link>
 		<comments>https://batbatian.com/post-without-an-image/#respond</comments>
 		<pubDate>Wed, 14 Dec 2011 21:32:54 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
@@ -216,7 +216,7 @@ include(TEMPLATEPATH . '/includes/custom-stylesheet.php');
 		</item>
 		<item>
 		<title>Instructional Videos</title>
-		<link>https://batbatian.com/another-awesome-post-with-an-image/</link>
+<base href="http://localhost:9292/" />		<link>https://batbatian.com/another-awesome-post-with-an-image/</link>
 		<comments>https://batbatian.com/another-awesome-post-with-an-image/#respond</comments>
 		<pubDate>Wed, 14 Dec 2011 21:30:17 +0000</pubDate>
 		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>

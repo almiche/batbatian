@@ -10,9 +10,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<title>Saint-Laurent &#8211; Pierre Batbatian</title>
-
-<link rel="stylesheet" href="../../wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector49c8.css?v=3.5.1.1" type="text/css" media="all" />
-<link rel="dns-prefetch" href="http://fonts.googleapis.com/"><link rel="dns-prefetch" href="http://maps.google.com/"><link rel="alternate" hreflang="en-US" href="index.html" />
+<base href="http://localhost:9292/" />
+<link rel="stylesheet" href="css/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector49c8.css" type="text/css" media="all" /><link rel="dns-prefetch" href="http://fonts.googleapis.com/"><link rel="dns-prefetch" href="http://maps.google.com/"><link rel="alternate" hreflang="en-US" href="index.html" />
 <link rel="alternate" hreflang="fr-FR" href="../../fr/quartiers/saint-laurent/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Pierre Batbatian &raquo; Feed" href="../../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Pierre Batbatian &raquo; Comments Feed" href="../../comments/feed/index.html" />

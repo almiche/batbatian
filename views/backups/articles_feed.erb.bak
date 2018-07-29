@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Articles &#8211; Pierre Batbatian</title>
+	<atom:link href="https://batbatian.com/category/articles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://batbatian.com</link>
+	<description>Montreal Real Estate</description>
+	<lastBuildDate>Sat, 08 Jul 2017 01:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.5</generator>
+	<item>
+		<title>Fully Responsive</title>
+		<link>https://batbatian.com/fully-responsive/</link>
+		<comments>https://batbatian.com/fully-responsive/#respond</comments>
+		<pubDate>Tue, 06 Mar 2012 00:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Features]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_real_estate_3/?p=300</guid>
+		<description><![CDATA[This theme was built to look great on all devices from large desktops to tablets and mobile phones. Go ahead resize the browser and see it in action. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec]]></description>
+				<content:encoded><![CDATA[<p>This theme was built to look great on all devices from large desktops to tablets and mobile phones. Go ahead resize the browser and see it in action.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/fully-responsive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Translation Ready</title>
+		<link>https://batbatian.com/translation-ready/</link>
+		<comments>https://batbatian.com/translation-ready/#respond</comments>
+		<pubDate>Thu, 29 Dec 2011 00:49:04 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Features]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=234</guid>
+		<description><![CDATA[Translate WP Pro Real Estate 7 into any language, its also RTL and WPML compatible. Easily create a new language with the supplied .mo &#38; .po files, full documentation is also included. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu]]></description>
+				<content:encoded><![CDATA[<p>Translate WP Pro Real Estate 7 into any language, its also RTL and <a href="http://wpml.org/?aid=9098&amp;affiliate_key=lzBo0CYyVMbn" target="_blank">WPML</a> compatible. Easily create a new language with the supplied .mo &amp; .po files, full documentation is also included.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/translation-ready/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clean Semantic Code</title>
+		<link>https://batbatian.com/clean-semantic-code/</link>
+		<comments>https://batbatian.com/clean-semantic-code/#respond</comments>
+		<pubDate>Thu, 15 Dec 2011 21:42:53 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Features]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=76</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/clean-semantic-code/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Child Theme Creator</title>
+		<link>https://batbatian.com/child-theme-creator/</link>
+		<comments>https://batbatian.com/child-theme-creator/#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 23:32:40 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=88</guid>
+		<description><![CDATA[Easily create a child theme in under 30 seconds then go right into customizing the CSS all within the admin!]]></description>
+				<content:encoded><![CDATA[<p>Easily create a child theme in under 30 seconds then go right into customizing the CSS all within the admin — no need to use FTP.<br />
+<strong>Only theme on ThemeForest with this feature!</strong></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/child-theme-creator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Full Video Support</title>
+		<link>https://batbatian.com/full-video-support/</link>
+		<comments>https://batbatian.com/full-video-support/#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 21:52:22 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=83</guid>
+		<description><![CDATA[Video can be embedded easily via a custom textarea in the Edit Posts panel or directly into the post body with a simple URL then oEmbed will automagically insert the embed code. Don't worry about the sizing either thats all taking care of automagically as well!]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/full-video-support/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Kitchen Sink</title>
+		<link>https://batbatian.com/the-kitchen-sink/</link>
+		<comments>https://batbatian.com/the-kitchen-sink/#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 21:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=68</guid>
+		<description><![CDATA[This post has everything headings, images, quotes, images — you name it, its in here. It's well uh…the "Kitchen Sink" check it out!]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur quam augue, vehicula quis, tincidunt vel, varius vitae, nulla. Sed convallis orci. Duis libero orci, pretium a, <a href="#">convallis quis</a>, pellentesque a, <abbr title="Abbr tag">the abbr tag</abbr>. Curabitur <acronym title="Acronym tag">the acronym tag</acronym> nisi non dolor <del>the del tag</del> consequat. Nulla sagittis <em>the em tag</em> Nulla<sub>2</sub> sed<sup>2</sup> id odio <small>the small tag</small></p>
+<blockquote><p>Etiam eu lacus euismod eros pharetra pretium eu a nulla.. Integer a leo. In et eros at neque pretium sagittis. Sed sodales lorem a ipsum suscipit gravida. Ut fringilla placerat arcu. Phasellus imperdiet. Mauris ac justo et turpis pharetra vulputate.</p></blockquote>
+<p><cite><a href="#">Quote Source</a></cite></p>
+<h1>Level 1 Heading</h1>
+<h2>Level 2 Heading</h2>
+<h3>Level 3 Heading</h3>
+<h4>Level 4 Heading</h4>
+<h5>Level 5 Heading</h5>
+<h6>Level 6 Heading</h6>
+<div class="hero"><strong>This is a hero lead, use it to call out important announcements!</strong></div>
+<h3 class="marT18">An Unordered List</h3>
+<ul>
+<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.</li>
+<li>Etiam massa libero, lacinia at, commodo in, tincidunt a, purus.</li>
+<li>Praesent volutpat eros quis enim blandit tincidunt.</li>
+<li>Aenean eu libero nec lectus ultricies laoreet. Donec rutrum, nisi vel egestas ultrices, ipsum urna sagittis libero, vitae vestibulum dui dolor vel velit.</li>
+</ul>
+<p>Nulla sagittis convallis arcu. Sed sed nunc. Curabitur consequat. Quisque metus enim, venenatis fermentum, mollis in, porta et, nibh. Duis vulputate elit in elit. Mauris dictum libero id justo. [highlight]Fusce in est.[/highlight] Sed nec diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque semper nibh eget nibh. Sed tempor. Fusce erat.</p>
+<h3>An Ordered List</h3>
+<ol>
+<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.</li>
+<li>Etiam massa libero, lacinia at, commodo in, tincidunt a, purus.</li>
+<li>Praesent volutpat eros quis enim blandit tincidunt.</li>
+<li>Aenean eu libero nec lectus ultricies laoreet. Donec rutrum, nisi vel egestas ultrices, ipsum urna sagittis libero, vitae vestibulum dui dolor vel velit.</li>
+</ol>
+<pre>&lt;?php if($ct_options['ct_use_styles'] == "Yes") {
+include(TEMPLATEPATH . '/includes/custom-stylesheet.php');
+} ?&gt;</pre>
+<table summary="This is a summary of my tabular data.">
+<thead>
+<tr>
+<th id="itemcolumn" scope="col">Item Column</th>
+<th id="col1" scope="col">Column 1</th>
+<th id="col2" scope="col">Column 2</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3">Table Footer</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<th id="row1" scope="row">Item 1</th>
+<td headers="itemcolumn col1">A</td>
+<td headers="itemcolumn col2">B</td>
+</tr>
+<tr>
+<th id="row2" scope="row">Item 2</th>
+<td headers="itemcolumn col1">C</td>
+<td headers="itemcolumn col2">D</td>
+</tr>
+<tr>
+<th id="row3" scope="row">Item 3</th>
+<td headers="itemcolumn col1">E</td>
+<td headers="itemcolumn col2">F</td>
+</tr>
+</tbody>
+</table>
+<p><img class="alignleft size-thumbnail wp-image-89" title="business_team" src="http://wp.contempographicdesign.com/wp_executive/wp-content/uploads/2011/07/business_team1-150x150.jpg" alt="" width="150" height="150" />In non varius lorem. Aliquam vestibulum mauris ut enim sagittis ut hendrerit lacus lacinia. Sed semper odio id ante volutpat ultrices. In lacinia sodales lorem, adipiscing tincidunt felis facilisis quis. Vestibulum congue leo at est tempor vestibulum. Mauris ut ipsum ut turpis rutrum scelerisque. Praesent tortor massa, porttitor vel ullamcorper a, tristique non neque. Nulla molestie dolor a dui vestibulum vitae malesuada libero sagittis. Etiam eget felis non nulla hendrerit tincidunt. Morbi tincidunt eleifend ipsum ut elementum. Sed eget tortor at mauris consequat adipiscing sit amet et quam. Ut at risus rhoncus orci varius commodo at quis nisl.</p>
+<p><img class="alignright size-thumbnail wp-image-88" title="tumblr_lhapv3TCqY1qaywn2o1_1280" src="http://wp.contempographicdesign.com/wp_executive/wp-content/uploads/2011/07/tumblr_lhapv3TCqY1qaywn2o1_12801-150x150.jpg" alt="" width="150" height="150" /></p>
+<p>Donec orci mi, dignissim at venenatis sit amet, suscipit et dolor. Duis commodo iaculis purus at blandit. Nam ut suscipit sapien. Fusce ut metus orci. Fusce vulputate viverra dui a mollis. Mauris ultricies faucibus nisl. Nunc aliquet luctus sapien, vel lobortis mauris volutpat ac. Integer iaculis mattis condimentum. Nullam dignissim molestie quam et consectetur. Pellentesque cursus tincidunt dolor, ac tincidunt massa tincidunt auctor. Suspendisse lacus ipsum, pulvinar non aliquet id, mattis et sapien. Integer consectetur auctor tempus. Donec pretium, libero in sollicitudin accumsan, felis neque pulvinar purus, sit amet cursus augue magna id massa. Duis facilisis felis sed augue tempor volutpat. Nunc sed nisl nec purus ornare ultricies. Donec vitae lectus diam.</p>
+<p>Curabitur at enim sit amet nunc sollicitudin tincidunt ut sit amet metus. Nullam id scelerisque lacus. Fusce pretium nisl a lorem tempor ornare. Pellentesque pellentesque purus mattis purus tempus ac tristique leo ultricies. In mattis tincidunt sapien nec lacinia. Donec a dapibus augue. Sed eu sapien non est suscipit commodo. Mauris egestas, dolor sed euismod elementum, erat lectus elementum libero, eu vulputate nunc metus vitae turpis. Cras viverra accumsan augue, et tristique nisi viverra sit amet. Nunc mi sapien, lobortis ut blandit ac, adipiscing sit amet nisi. Praesent cursus aliquam purus non molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate arcu ut metus ullamcorper viverra. Phasellus vestibulum vehicula leo, non rhoncus quam malesuada condimentum. Fusce congue eros a erat lobortis semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc augue magna, rutrum vel fermentum id, euismod at orci. Phasellus scelerisque gravida arcu, in rhoncus tellus porta et.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/the-kitchen-sink/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SEO Optimized</title>
+		<link>https://batbatian.com/post-without-an-image/</link>
+		<comments>https://batbatian.com/post-without-an-image/#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 21:32:54 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=66</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/post-without-an-image/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instructional Videos</title>
+		<link>https://batbatian.com/another-awesome-post-with-an-image/</link>
+		<comments>https://batbatian.com/another-awesome-post-with-an-image/#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 21:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Pierre Batbatian]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+
+		<guid isPermaLink="false">http://wp.contempographicdesign.com/wp_artisan/?p=62</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta molestie orci vel scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu sodales dolor. Donec rhoncus rhoncus risus, in aliquam neque porta egestas. Maecenas eu tellus gravida, vehicula ipsum eu, malesuada nibh. In id facilisis libero. Vivamus ullamcorper convallis nisl, eu mattis odio maximus nec. Maecenas tempor egestas risus, eget vehicula massa aliquet vel. Aliquam erat volutpat.</p>
+<p>Nullam ultricies diam nec purus mattis, in suscipit lacus suscipit. Morbi pretium sapien mattis nisl tempor eleifend. Vivamus malesuada urna non feugiat dignissim. Vestibulum eleifend dui nec massa ultricies, vitae dapibus nibh venenatis. Maecenas porttitor molestie augue non tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed elementum efficitur sem sed faucibus. Etiam a ullamcorper sem. Ut vitae ex ornare, bibendum lectus non, rhoncus risus. Vivamus vulputate purus sed accumsan semper. Vivamus mattis gravida tellus in bibendum. Sed pulvinar ac dui a semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+<p>Vestibulum ultricies congue arcu, dapibus pulvinar nisl facilisis quis. Phasellus dapibus ultrices purus id pretium. Sed hendrerit gravida mauris, in tempus est blandit ac. Donec sit amet ultrices ex. Nam aliquet faucibus lacus, eget molestie orci semper nec. Nulla facilisi. Suspendisse pulvinar augue id sapien hendrerit pellentesque. Sed euismod euismod enim a aliquam. Donec ultricies placerat mauris nec vulputate. Curabitur tempor nisl non dolor faucibus, porta hendrerit orci ultricies. Praesent pellentesque, leo id fermentum tincidunt, lacus metus venenatis ante, eget tristique tellus est id diam. Cras volutpat quam non dui congue congue. Nunc gravida fermentum arcu at venenatis.</p>
+<p>Aenean a condimentum elit. Nam ac mi quis neque molestie ullamcorper nec et mauris. Aliquam erat volutpat. Suspendisse maximus lectus et elementum aliquam. Duis auctor at augue non imperdiet. Etiam mauris libero, facilisis vitae diam ut, condimentum congue neque. Curabitur augue felis, posuere vel laoreet eu, lacinia id neque. Curabitur dapibus lorem augue, nec congue dui efficitur sed. Vestibulum condimentum scelerisque eleifend. Pellentesque a urna metus. Etiam dapibus, quam a pharetra auctor, lectus erat consectetur lacus, id porta mi libero eu massa. Curabitur at sapien feugiat lacus ornare rhoncus. Nullam varius urna quis urna scelerisque, eu rhoncus tortor luctus. Quisque pretium felis sed tellus feugiat, aliquam convallis nunc sagittis. Vivamus tempus at quam ut tincidunt. Integer dictum velit in congue malesuada.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://batbatian.com/another-awesome-post-with-an-image/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
