@@ -10,7 +10,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<title>Saint-Laurent &#8211; Pierre Batbatian</title>
-<base href="http://localhost:9292/" />
+<base href="http://178.128.224.38/" />
 <link rel="stylesheet" href="css/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector49c8.css" type="text/css" media="all" /><link rel="dns-prefetch" href="http://fonts.googleapis.com/"><link rel="dns-prefetch" href="http://maps.google.com/"><link rel="alternate" hreflang="en-US" href="index.html" />
 <link rel="alternate" hreflang="fr-FR" href="../../fr/quartiers/saint-laurent/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Pierre Batbatian &raquo; Feed" href="../../feed/index.html" />
@@ -69,7 +69,7 @@ img.emoji {
 <link rel='stylesheet' id='ct_social_css-css'  href='css/wp-content/themes/realestate-7/admin/ct-social/assets/style5152.css?ver=1.0' type='text/css' media='all' />
 <link rel='stylesheet' id='tablepress-default-css'  href='css/wp-content/tablepress-combined.min77ae.css?ver=2' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='css/wp-content/plugins/js_composer/assets/css/js_composer125b.css?ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='bfa-font-awesome-css'  href='../../../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css'  href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-css'  href='css/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min2072.css?ver=3.2.5' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-flat-blue-css'  href='css/wp-content/plugins/ubermenu-skins-flat/skins/blue4235.css?ver=4.4.5' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-font-awesome-css'  href='css/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.mind7b7.css?ver=4.3' type='text/css' media='all' />
@@ -682,4 +682,4 @@ var icl_vars = {"current_language":"en","icl_home":"https:\/\/batbatian.com\/","
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"51663b8ae0","applicationID":"30257101","transactionName":"ZlJbZ0JUDxJVBxZfC18YeFBEXA4PGxAHWxRdVk1WHVMUDVhJFV8ARV8=","queueTime":0,"applicationTime":1382,"atts":"ShVYEQpOHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 <!-- Mirrored from batbatian.com/neighborhoods/saint-laurent/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 08 May 2018 01:23:10 GMT -->
-</html><base href="http://localhost:9292/" />
+</html><base href="http://178.128.224.38/" />

@@ -112,7 +112,7 @@ def replace(interest,replacement):
                 with fileinput.FileInput(filename,inplace=True,backup='.bak') as file:
                         for line in file:
                                 if interest in line:
-                                        print(line.replace(line,'replacement'), end='')
+                                        print(line.replace(interest,replacement), end='')
                                 else:
                                         print(line,end='')
 
@@ -121,4 +121,6 @@ if __name__ == "__main__":
         # correct_wp("wp-includes")
         # correct_wp("wp-admin")
         # background("wp-content")
-        replace('/index.html','')
+        replace('../https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
+        replace('../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
+        replace('../../../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
