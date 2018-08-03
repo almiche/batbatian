@@ -14,7 +14,9 @@ class MyApp < Sinatra::Application
     end
 
     get '/' do 
-        erb :'index'
+        navbar = erb :'navbar'
+        puts "Hello #{navbar}"
+        erb :'index' , :locals =>{ :navbar => navbar}
     end 
 
     get '/neighborhoods/:town' do
