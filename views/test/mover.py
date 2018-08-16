@@ -107,20 +107,20 @@ def fix_neighborhoods():
                                 else:
                                         print(line,end='')
 
-def replace(interest,replacement):
-        for filename in glob.glob('**/*.erb',recursive=True):
-                with fileinput.FileInput(filename,inplace=True,backup='.bak') as file:
-                        for line in file:
-                                if interest in line:
-                                        print(line.replace(interest,replacement), end='')
-                                else:
-                                        print(line,end='')
+def sub_section():
+        r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
+        for filename in glob.glob('**/*.erb', recursive=True):
+                file_location = "{}/{}".format(os.getcwd(),filename)
+                print(filename)
+                F = open(filename,'r') 
+                html = F.read()
+                F.close()
+                to_replace = re.search(r,html).group(0)
+                result = html.replace(to_replace,"<%= navbar %>")
+                F = open(filename,'w')
+                F.write(result)
+                F.close()
+                # print(result)
 
 if __name__ == "__main__":
-        # correct_wp("wp-content")
-        # correct_wp("wp-includes")
-        # correct_wp("wp-admin")
-        # background("wp-content")
-        replace('../../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
-        replace('../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
-        replace('../../../cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min1849.css?ver=4.7.0','https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
+        sub_section()
