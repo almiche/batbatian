@@ -116,7 +116,7 @@ import fileinput
 #                                 else:
 #                                         print(line,end='')
 
-def sub_section(interest):
+def sub_section(interest,replace):
         r = interest
         for filename in glob.glob('**/*.erb', recursive=True):
                 try:
@@ -126,7 +126,7 @@ def sub_section(interest):
                         html = F.read()
                         F.close()
                         to_replace = re.search(r,html).group(0)
-                        result = html.replace(to_replace,"<%= footer %>")
+                        result = html.replace(to_replace,replace)
                         F = open(filename,'w')
                         F.write(result)
                         F.close()
@@ -136,6 +136,7 @@ def sub_section(interest):
 
 if __name__ == "__main__":
         # r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
-        r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
-        sub_section(r)
+        # r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
+        r = '<base href="http://178.128.224.38/" />'
+        sub_section(r,'<base href="http://localhost:9292/" />')
         
