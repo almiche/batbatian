@@ -1,0 +1,27 @@
+.filter-dark {
+    overflow: hidden;
+    position: relative;
+    color: color-yiq(map-get($theme-colors, 'dark'));
+      &:before {
+      position: absolute;
+      top:0px;
+      left:0px;
+      width:100%;
+      height: 100%;
+      content: ' ';
+      background: rgba(map-get($theme-colors, 'dark'), 0.75);
+    }
+  }
+
+.entry {
+padding-bottom: 2em;
+}
+
+.footer-link {
+  color:white
+}
+
+h3 {
+  font-family: Montserrat;
+  font-size:1em
+}

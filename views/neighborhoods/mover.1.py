@@ -116,26 +116,21 @@ import fileinput
 #                                 else:
 #                                         print(line,end='')
 
-def sub_section(interest):
-        r = interest
+def sub_section():
+        r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
         for filename in glob.glob('**/*.erb', recursive=True):
-                try:
-                        file_location = "{}/{}".format(os.getcwd(),filename)
-                        print(filename)
-                        F = open(filename,'r') 
-                        html = F.read()
-                        F.close()
-                        to_replace = re.search(r,html).group(0)
-                        result = html.replace(to_replace,"<%= footer %>")
-                        F = open(filename,'w')
-                        F.write(result)
-                        F.close()
-                        # print(result)
-                except:
-                        pass
+                file_location = "{}/{}".format(os.getcwd(),filename)
+                print(filename)
+                F = open(filename,'r') 
+                html = F.read()
+                F.close()
+                to_replace = re.search(r,html).group(0)
+                result = html.replace(to_replace,"<%= navbar %>")
+                F = open(filename,'w')
+                F.write(result)
+                F.close()
+                # print(result)
 
 if __name__ == "__main__":
-        # r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
-        r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
-        sub_section(r)
+        sub_section()
         

@@ -107,20 +107,25 @@ def fix_neighborhoods():
                                 else:
                                         print(line,end='')
 
-def sub_section():
-        r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
+def sub_section(interest):
+        r = interest
         for filename in glob.glob('**/*.erb', recursive=True):
-                file_location = "{}/{}".format(os.getcwd(),filename)
-                print(filename)
-                F = open(filename,'r') 
-                html = F.read()
-                F.close()
-                to_replace = re.search(r,html).group(0)
-                result = html.replace(to_replace,"<%= navbar %>")
-                F = open(filename,'w')
-                F.write(result)
-                F.close()
-                # print(result)
+                try:
+                        file_location = "{}/{}".format(os.getcwd(),filename)
+                        print(filename)
+                        F = open(filename,'r') 
+                        html = F.read()
+                        F.close()
+                        to_replace = re.search(r,html).group(0)
+                        result = html.replace(to_replace,"<%= footer %>")
+                        F = open(filename,'w')
+                        F.write(result)
+                        F.close()
+                        # print(result)
+                except:
+                        pass
 
 if __name__ == "__main__":
-        sub_section()
+        # r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
+        r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
+        sub_section(r)
