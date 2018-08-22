@@ -1,9 +1,10 @@
 FROM ruby:2.4-jessie
 
 RUN apt-get update &&\
-    apt-get install git &&\
-    git clone https://github.com/almiche/batbatian.git &&\
-    gem install bundler
+    gem install bundle &&\
+    mkdir batbatian
+
+COPY app batbatian
 
 WORKDIR batbatian
 

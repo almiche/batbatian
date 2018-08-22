@@ -24,51 +24,51 @@ class MyApp < Sinatra::Application
     end 
 
     get '/neighborhoods/:town' do
-        erb :"/neighborhoods/#{params[:town]}", :locals =>{ :navbar => @navbar}
+        erb :"/neighborhoods/#{params[:town]}", :locals =>{ :navbar => @navbar, :footer => @footer}
     end
 
     get '/buying-selling/buy/:page' do
-        erb :"/buying-selling/buy/#{params[:page]}", :locals =>{ :navbar => @navbar}
+        erb :"/buying-selling/buy/#{params[:page]}", :locals =>{ :navbar => @navbar, :footer => @footer}
     end
 
     get '/buying-selling/sell/:page' do
-        erb :"/buying-selling/sell/#{params[:page]}", :locals =>{ :navbar => @navbar}
+        erb :"/buying-selling/sell/#{params[:page]}", :locals =>{ :navbar => @navbar, :footer => @footer}
     end
 
     get '/tools/:page' do
-        erb :"/tools/#{params[:page]}", :locals =>{ :navbar => @navbar}
+        erb :"/tools/#{params[:page]}", :locals =>{ :navbar => @navbar, :footer => @footer}
     end
 
     get '/indexd67d' do
-        erb :indexd67d, :locals =>{ :navbar => @navbar}
+        erb :indexd67d, :locals =>{ :navbar => @navbar, :footer => @footer}
     end
 
     get '/articles' do 
-            erb :'articles', :locals =>{ :navbar => @navbar}
+            erb :'articles', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/neighborhoods' do 
-            erb :'neighborhoods', :locals =>{ :navbar => @navbar}
+            erb :'neighborhoods', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/about' do 
-            erb :'about', :locals =>{ :navbar => @navbar}
+            erb :'about', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/admin' do 
-            erb :'admin', :locals =>{ :navbar => @navbar}
+            erb :'admin', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/marketing-approach-2' do 
-            erb :'marketing-approach-2', :locals =>{ :navbar => @navbar}
+            erb :'marketing-approach-2', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/contact' do 
-            erb :'contact', :locals =>{ :navbar => @navbar}
+            erb :'contact', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     get '/properties' do 
-            erb :'properties', :locals =>{ :navbar => @navbar}
+            erb :'properties', :locals =>{ :navbar => @navbar, :footer => @footer}
     end 
 
     # get '/admin' do 
