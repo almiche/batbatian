@@ -16,7 +16,7 @@ class MyApp < Sinatra::Application
     end
 
     get '/navbar' do 
-        erb :'footer'
+        erb :'navbar'
     end 
 
     get '/' do 
