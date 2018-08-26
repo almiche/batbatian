@@ -137,6 +137,7 @@ def sub_section(interest,replace):
 if __name__ == "__main__":
         # r = "(<!-- Wrapper -->)[\s\n\W\S\r]*(<!-- Main Content -->)"
         # r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
-        r = '<base href="http://178.128.224.38/" />'
-        sub_section(r,'<base href="http://localhost:9292/" />')
+        # r = '<base href="http://178.128.224.38/" />'
+        r = '<base href="http://localhost:9292/" />'
+        sub_section(r,'<base href="http://178.128.224.38/" />')
         
