@@ -9,7 +9,7 @@
       width:100%;
       height: 100%;
       content: ' ';
-      background: rgba(map-get($theme-colors, 'dark'), 0.75);
+      background: rgba(map-get($theme-colors, 'dark'), 0.85);
     }
   }
 
