@@ -132,6 +132,7 @@ def sub_section(interest,replace):
                         F.close()
                         # print(result)
                 except:
+                        print("Problem")
                         pass
 
 if __name__ == "__main__":
@@ -139,6 +140,7 @@ if __name__ == "__main__":
         # r = "( <!-- Footer Widgets -->)[\s\n\W\S\r]*( <!-- //Footer -->)"
         # r = '<base href="http://178.128.224.38/" />'
         # r = '<base href="http://localhost:9292/" />'
-        r = '<section id="main-content" ><style type="text/css">#single-header { background: url(../../..'
+        
+        r = '        <section id="main-content" ><style type="text/css">#single-header { background: url(../../..'
         sub_section(r,'<section id="main-content" ><style type="text/css">#single-header { background: url(/imgs')
         
